@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -49,4 +50,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 <!---LeetCode Topics End-->
