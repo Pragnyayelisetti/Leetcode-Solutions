@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -83,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
