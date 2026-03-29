@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 ## Counting
