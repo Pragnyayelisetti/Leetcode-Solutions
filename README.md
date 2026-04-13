@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
