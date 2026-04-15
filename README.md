@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## Greedy
