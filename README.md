@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
