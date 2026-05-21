@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
