@@ -13,7 +13,7 @@ public:
             }
             else prefix[i]=prefix[i-1];
         }
-        for(int i=0; i<n; i++) cout<<prefix[i]<<" ";
+        //for(int i=0; i<n; i++) cout<<prefix[i]<<" ";
         vector<int>ans;
         for(int i=0; i<queries.size(); i++){
             int l=queries[i][0];
