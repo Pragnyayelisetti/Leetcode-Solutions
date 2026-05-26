@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3456-find-special-substring-of-length-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -131,11 +134,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
