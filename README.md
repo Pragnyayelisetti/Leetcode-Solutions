@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
