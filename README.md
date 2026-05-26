@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0806-number-of-lines-to-write-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
