@@ -9,7 +9,7 @@ public:
                 ch++;
             }
         }
-        for(auto it:freq) cout<<it.first<<" "<<it.second<<endl;
+        //for(auto it:freq) cout<<it.first<<" "<<it.second<<endl;
         string res="";
         for(char ch:message){
             if(ch==' ') res+=' ';
