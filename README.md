@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1154-day-of-the-year](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
