@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
@@ -235,4 +236,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
