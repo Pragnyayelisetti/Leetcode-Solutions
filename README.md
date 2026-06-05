@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -231,15 +232,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
