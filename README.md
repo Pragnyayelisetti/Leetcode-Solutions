@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
