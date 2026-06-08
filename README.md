@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0455-assign-cookies](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -264,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0086-partition-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
