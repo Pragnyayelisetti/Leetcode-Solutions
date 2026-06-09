@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
