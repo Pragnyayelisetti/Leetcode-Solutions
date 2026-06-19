@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1629-slowest-key](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1629-slowest-key/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
