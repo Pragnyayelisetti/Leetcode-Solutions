@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1629-slowest-key/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -291,4 +294,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
