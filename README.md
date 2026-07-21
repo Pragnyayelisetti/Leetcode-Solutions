@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3456-find-special-substring-of-length-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
