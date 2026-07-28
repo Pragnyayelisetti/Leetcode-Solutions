@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3456-find-special-substring-of-length-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0274-h-index](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
