@@ -1,26 +1,13 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char,int>freq;
-        for(char ch:word){
-            freq[ch]++;
+        int cnt=0;
+        for(int i=0; i<word.size(); i++){
+            if(i<=7) cnt++;
+            else if(i<=15) cnt+=2;
+            else if(i<=23) cnt+=3;
+            else cnt+=4;
         }
-        vector<pair<char,int>>p;
-        for(auto it:freq) p.push_back({it.first , it.second});
-        sort(p.begin() , p.end() , [](auto &a , auto &b){
-            return a.second>b.second;
-        });
-        //for(int i=0; i<p.size(); i++) cout<<p[i].first<<" "<<p[i].second<<endl;
-        int add=1;
-        int ans=0,cnt=0;
-        for(int i=0; i<p.size(); i++){
-            ans+=add*p[i].second;//8
-            cnt++;//8
-            if(cnt==8){
-                add++;
-                cnt=0;
-            }
-        }
-        return ans;
+        return cnt;
     }
 };
