@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0461-hamming-distance](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
