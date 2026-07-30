@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -389,4 +390,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
