@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2325-decode-the-message](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
