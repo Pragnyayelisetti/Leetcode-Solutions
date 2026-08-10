@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0338-counting-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0338-counting-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
