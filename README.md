@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
