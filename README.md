@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
