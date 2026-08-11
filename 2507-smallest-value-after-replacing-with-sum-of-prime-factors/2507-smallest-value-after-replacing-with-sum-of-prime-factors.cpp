@@ -16,14 +16,21 @@ public:
     int smallestValue(int n) {
         SPF();
         while(prime[n]!=n){//
-            int x=n;
-            int sum=0;
+            unordered_map<int,int>freq;
+            int x=n;//50
+            //freq[prime[n]]++;//2 ,
             while(x>1){
-                sum+=prime[x];
+                freq[prime[x]]++;
                 x=x/prime[x];
             } 
+            int sum=0;
+            for(auto it:freq){
+                sum+=it.second*it.first;
+            }
+            //cout<<sum<<endl;
             if(sum==n) break;
             n=sum;
+            //freq[x]++;
         }
         return n;
     }
