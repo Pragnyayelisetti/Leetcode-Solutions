@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2325-decode-the-message](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2376-count-special-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2376-count-special-integers/) | Hard |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -441,16 +445,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
