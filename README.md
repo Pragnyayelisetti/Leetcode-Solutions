@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -458,16 +462,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Euclidean Algorithm
