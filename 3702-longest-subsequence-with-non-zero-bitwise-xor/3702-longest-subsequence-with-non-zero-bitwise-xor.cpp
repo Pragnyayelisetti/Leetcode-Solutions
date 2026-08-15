@@ -7,7 +7,7 @@ public:
             c=c^nums[i];
             if(c==0) cnt++;
         }
-        if(cnt!=0) return nums.size();
+        if(c!=0) return nums.size();
         else if(cnt==nums.size()) return 0;
         return nums.size()-1;
     }
