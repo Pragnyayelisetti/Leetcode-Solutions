@@ -1,12 +1,22 @@
 class Solution {
 public:
     int trailingZeroes(int n) {
-        int p=5;
-        int maxi=0;
-        while(p<=n){
-            maxi+=n/p;//1
-            p*=5;//25
+        if(n==0) return 0;
+        int fcnt=0,tcnt=0;
+        for(int i=1; i<=n; i++){
+            int x=i;
+            while(x){
+                if(x%5==0){
+                    fcnt++;
+                    x=x/5;
+                }
+                else if(x%2==0){
+                    tcnt++;
+                    x=x/2;
+                }
+                else break;
+            }
         }
-        return maxi;
+        return min(fcnt,tcnt);
     }
 };
