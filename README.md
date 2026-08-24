@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1598-crawler-log-folder](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1629-slowest-key](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1629-slowest-key/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1720-decode-xored-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1720-decode-xored-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
