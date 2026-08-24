@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Design
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -339,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2376-count-special-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2376-count-special-integers/) | Hard |
@@ -519,4 +524,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
