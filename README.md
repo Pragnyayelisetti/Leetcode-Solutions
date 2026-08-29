@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2523-closest-prime-numbers-in-range](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
