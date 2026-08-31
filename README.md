@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0086-partition-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
