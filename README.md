@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1922-count-good-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2376-count-special-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2376-count-special-integers/) | Hard |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Linked List
