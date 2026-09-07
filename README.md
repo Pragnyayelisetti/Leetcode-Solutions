@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
+| [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Search
