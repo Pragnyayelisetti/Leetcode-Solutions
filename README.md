@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1946-largest-number-after-mutating-substring](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
