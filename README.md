@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3456-find-special-substring-of-length-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
