@@ -17,10 +17,9 @@ public:
         int f=0;
         if(a<=head->val){
             ListNode* temp=new ListNode(head->val);
-            cout<<temp->val<<" ";
+            //cout<<temp->val<<" ";
             temp->next=ans;
             ans=temp;
-            //maxi=max(maxi,head->val);//8
         }
         return a=max(a,head->val);
     }
