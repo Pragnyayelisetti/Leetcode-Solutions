@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -564,11 +567,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
