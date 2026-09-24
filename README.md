@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1629-slowest-key](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1629-slowest-key/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
