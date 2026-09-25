@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
