@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
@@ -542,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -602,4 +607,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
