@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1629-slowest-key](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1629-slowest-key/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
@@ -627,4 +629,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
