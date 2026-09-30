@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
