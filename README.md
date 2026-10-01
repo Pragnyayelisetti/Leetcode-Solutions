@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -630,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
