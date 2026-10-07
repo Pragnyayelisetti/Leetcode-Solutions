@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0263-ugly-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
@@ -525,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -648,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
