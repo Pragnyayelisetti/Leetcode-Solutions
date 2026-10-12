@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0231-power-of-two](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
