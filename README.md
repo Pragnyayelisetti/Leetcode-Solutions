@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pragnyayelisetti/Leetcode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
