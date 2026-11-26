@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        if(n<10) return false;
+        /*if(n<10) return false;
         if(n>=10 and n<19) return true;
         if(n>=19 and n<27) return false;
         if(n>=27 and n<34) return true;
@@ -11,6 +11,14 @@ public:
         if(n>=49 and n<52) return true;
         if(n>=52 and n<54) return false;
         if(n>=54 and n<55) return true;
+        return false;*/
+        int c=0;
+        for(int i=10; i>=1; i--){
+            n-=i;
+            c++;
+            if(n<0 and c%2!=0) return false;
+            else if(n<0 and c%2==0) return true; 
+        }
         return false;
     }
 };
